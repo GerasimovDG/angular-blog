@@ -1,4 +1,8 @@
 # AngularBlock - Implementation of the completed course on creating a blog with an admin panel in Angular
+[Working example](https://angular-blog-a49f8.firebaseapp.com/)
+
+[Working example admin panel](https://angular-blog-a49f8.firebaseapp.com/)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
