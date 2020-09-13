@@ -1,4 +1,4 @@
-# AngularBlock
+# AngularBlock - Implementation of the completed course on creating a blog with an admin panel in Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
